@@ -49,7 +49,7 @@ public class ListingActivity : Activity
 
         Console.WriteLine();
         Console.WriteLine("List as many items as you can related to:");
-        Console.WriteLine($"--- {prompt} ---");
+        Console.WriteLine($"-- {prompt} --");
         Console.WriteLine();
         Console.Write("You may begin in: ");
 
